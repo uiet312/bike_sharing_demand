@@ -1,3 +1,10 @@
+프로젝트 주제 : 워싱턴 D.C의 자전거 무인 대여 시스템 과거 기록을 기반으로 향후 자전거 대여 수요를 예측
+
+
+
+
+![bike_df](https://user-images.githubusercontent.com/64244851/179157567-0144cd1c-551c-416b-9353-9f6d74b33a72.PNG)
+
 ### Description
 * datetime - hourly date + timestamp  
 * season -  1 = 봄, 2 = 여름, 3 = 가을, 4 = 겨울  
